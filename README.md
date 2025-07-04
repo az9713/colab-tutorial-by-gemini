@@ -4,11 +4,11 @@
 
      "Create a beginner level PyTorch tutorial. 
 
-     The goal is to familiarize a learner with the concept of Tensor and all useful Tensor operations. 
+     The goal is to familiarize learners with the concept of Tensor and all useful Tensor operations. 
 
      End the tutorial with useful einops basics. 
 
-     In all explanations, focus on how to interpret and visualize the dimensions of the tensors."
+     In all explanations, focus on how to interpret and visualize the dimensions of tensors."
 
 * Gemini auto-ran the code cells and was able to explain and self fix the only error in the run.
 
